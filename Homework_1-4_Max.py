@@ -1,0 +1,8 @@
+string = input("Каким бывает лето? ")
+print(string)
+print(len(string))
+print(string.upper())
+print(string.lower())
+print(string.replace(" ", ""))
+print(string[0])
+print(string[-1])
